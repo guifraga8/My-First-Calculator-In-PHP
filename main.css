@@ -1,14 +1,16 @@
-.p{
+.p {
     text-align: center;
     font-family: "Comic Sans MS", sans-serif;
     font-style: normal;
     color: gray;
 }
-.h1{
+
+.h1 {
     border-top: 2px solid gray;
     border-bottom: 2px solid gray;
 }
-.forms{
+
+.forms {
     font-family: 'Courier New', Courier, monospace;
     font-style: normal;
     font-variant: small-caps;
@@ -18,11 +20,14 @@
     width: 50%;
     margin-left: 25%;
 }
-input,select{
+
+input,
+select {
     outline-color: red;
     font-variant: small-caps;
 }
-.footer{
+
+.footer {
     position: relative!important;
     font-variant: small-caps;
     font-size: 110%;
@@ -30,7 +35,7 @@ input,select{
     bottom: 0!important;
     height: 100px;
     width: 100%!important;
-    background-color:gray;
+    background-color: gray;
     color: white!important;
-    text-align: center!important;   
+    text-align: center!important;
 }
