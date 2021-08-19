@@ -1,0 +1,36 @@
+.p{
+    text-align: center;
+    font-family: "Comic Sans MS", sans-serif;
+    font-style: normal;
+    color: gray;
+}
+.h1{
+    border-top: 2px solid gray;
+    border-bottom: 2px solid gray;
+}
+.forms{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: 900;
+    font-size: 130%;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+input,select{
+    outline-color: red;
+    font-variant: small-caps;
+}
+.footer{
+    position: relative!important;
+    font-variant: small-caps;
+    font-size: 110%;
+    left: 0!important;
+    bottom: 0!important;
+    height: 100px;
+    width: 100%!important;
+    background-color:gray;
+    color: white!important;
+    text-align: center!important;   
+}
